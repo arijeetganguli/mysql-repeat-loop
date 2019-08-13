@@ -4,7 +4,7 @@ How to use Repeat in MySQL.
 
 ## Procedure
 ```sql
-CREATE PROCEDURE `Repeat_Loop`(_start int, _end int )
+CREATE PROCEDURE `Repeat_Loop`(_start INT, _end INT )
 BEGIN
 
 	DECLARE _a INT;
